@@ -1,16 +1,34 @@
-## Hi there 👋
+Привет! Я Python backend-разработчик с фокусом на создание высоконагруженных веб-приложений.
 
-<!--
-**Quatry/Quatry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Сейчас работаю в команде над разработкой Telegram Mini App**
 
-Here are some ideas to get you started:
+▫️ **Проблема**: Хаос в Telegram-группах с тысячами сообщений при поиске работы/специалистов  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+▫️ **Решение**: Telegram Mini App содержащий в себе - **Нетворкинг, Рекрутинг, Поиск работы** 
+
+▫️ **Фичи**:
+   - Быстрая и удобная Telegram-авторизация
+   - Проверка вакансий на поддлиность
+   - Система уведомлений о событиях
+   - Умная лента вакансий, подбирающая вакансии под пользователя
+
+**Мои обязанности**:
+- Проектирование и реализация REST API (Django/DRF)
+- Интеграция с Telegram Bot API и Mini Apps SDK
+- Настройка Celery для асинхронных задач (нотификации, аналитика)
+- Оптимизация PostgreSQL-запросов и Redis-кэширование
+- Деплой инфраструктуры на Docker с балансировкой нагрузки
+- Написание интеграционных тестов (pytest, unittest)
+- Мониторинг через Prometheus+Grafana и логирование в ELK
+
+**Технологический стек**:
+| Категория       | Технологии                                                                 |
+|-----------------|----------------------------------------------------------------------------|
+| Backend         | Python, Django, DRF, Celery                                                |
+| Databases       | PostgreSQL (TimescaleDB для аналитики), Redis                              |
+| DevOps          | Docker, Nginx, GitHub Actions, Prometheus                                  |
+| APIs            | Telegram APIs                                                              |
+| Tools           | Postman, Swagger, Grafana, Elasticsearch                                   |
+
+**Как со мной связаться**:
+- [Telegram](https://t.me/quatryh)
